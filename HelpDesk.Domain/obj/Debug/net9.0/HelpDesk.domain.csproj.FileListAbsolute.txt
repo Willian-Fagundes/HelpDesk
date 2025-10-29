@@ -1,0 +1,11 @@
+C:\Users\willi\Documents\Helpdesk\HelpDesk.Domain\bin\Debug\net9.0\HelpDesk.domain.deps.json
+C:\Users\willi\Documents\Helpdesk\HelpDesk.Domain\bin\Debug\net9.0\HelpDesk.domain.dll
+C:\Users\willi\Documents\Helpdesk\HelpDesk.Domain\bin\Debug\net9.0\HelpDesk.domain.pdb
+C:\Users\willi\Documents\Helpdesk\HelpDesk.Domain\obj\Debug\net9.0\HelpDesk.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Documents\Helpdesk\HelpDesk.Domain\obj\Debug\net9.0\HelpDesk.domain.AssemblyInfoInputs.cache
+C:\Users\willi\Documents\Helpdesk\HelpDesk.Domain\obj\Debug\net9.0\HelpDesk.domain.AssemblyInfo.cs
+C:\Users\willi\Documents\Helpdesk\HelpDesk.Domain\obj\Debug\net9.0\HelpDesk.domain.csproj.CoreCompileInputs.cache
+C:\Users\willi\Documents\Helpdesk\HelpDesk.Domain\obj\Debug\net9.0\HelpDesk.domain.dll
+C:\Users\willi\Documents\Helpdesk\HelpDesk.Domain\obj\Debug\net9.0\refint\HelpDesk.domain.dll
+C:\Users\willi\Documents\Helpdesk\HelpDesk.Domain\obj\Debug\net9.0\HelpDesk.domain.pdb
+C:\Users\willi\Documents\Helpdesk\HelpDesk.Domain\obj\Debug\net9.0\ref\HelpDesk.domain.dll

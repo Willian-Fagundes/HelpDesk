@@ -1,0 +1,17 @@
+C:\Users\willi\Documents\Helpdesk\HelpDesk.Data\bin\Debug\net9.0\HelpDesk.Data.deps.json
+C:\Users\willi\Documents\Helpdesk\HelpDesk.Data\bin\Debug\net9.0\HelpDesk.Data.runtimeconfig.json
+C:\Users\willi\Documents\Helpdesk\HelpDesk.Data\bin\Debug\net9.0\HelpDesk.Data.dll
+C:\Users\willi\Documents\Helpdesk\HelpDesk.Data\bin\Debug\net9.0\HelpDesk.Data.pdb
+C:\Users\willi\Documents\Helpdesk\HelpDesk.Data\bin\Debug\net9.0\HelpDesk.domain.dll
+C:\Users\willi\Documents\Helpdesk\HelpDesk.Data\bin\Debug\net9.0\HelpDesk.domain.pdb
+C:\Users\willi\Documents\Helpdesk\HelpDesk.Data\obj\Debug\net9.0\HelpDesk.Data.csproj.AssemblyReference.cache
+C:\Users\willi\Documents\Helpdesk\HelpDesk.Data\obj\Debug\net9.0\HelpDesk.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Documents\Helpdesk\HelpDesk.Data\obj\Debug\net9.0\HelpDesk.Data.AssemblyInfoInputs.cache
+C:\Users\willi\Documents\Helpdesk\HelpDesk.Data\obj\Debug\net9.0\HelpDesk.Data.AssemblyInfo.cs
+C:\Users\willi\Documents\Helpdesk\HelpDesk.Data\obj\Debug\net9.0\HelpDesk.Data.csproj.CoreCompileInputs.cache
+C:\Users\willi\Documents\Helpdesk\HelpDesk.Data\obj\Debug\net9.0\HelpDesk.6D0917CF.Up2Date
+C:\Users\willi\Documents\Helpdesk\HelpDesk.Data\obj\Debug\net9.0\HelpDesk.Data.dll
+C:\Users\willi\Documents\Helpdesk\HelpDesk.Data\obj\Debug\net9.0\refint\HelpDesk.Data.dll
+C:\Users\willi\Documents\Helpdesk\HelpDesk.Data\obj\Debug\net9.0\HelpDesk.Data.pdb
+C:\Users\willi\Documents\Helpdesk\HelpDesk.Data\obj\Debug\net9.0\HelpDesk.Data.genruntimeconfig.cache
+C:\Users\willi\Documents\Helpdesk\HelpDesk.Data\obj\Debug\net9.0\ref\HelpDesk.Data.dll
